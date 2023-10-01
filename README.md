@@ -1,0 +1,2 @@
+# pillDetectionSystemProject
+藥品盤點系統-藥品物件偵測模型及系統開發
